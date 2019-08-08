@@ -1,0 +1,4 @@
+Are you sure you want to continue connecting (yes/no)?, ACTION_SEND, yes         
+'s password:, ACTION_SEND, root
+Password:, ACTION_SEND, 1Transport!
+Host key verification failed., ACTION_EXE, rm /home/qxu1/.ssh/known_hosts
