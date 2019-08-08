@@ -1,6 +1,6 @@
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
+[![HitCount](http://hits.dwyl.io/ilovebl/autocom.svg)](http://hits.dwyl.io/ilovebl/autocom)
 # autocom
 autocom is used to execute other program and interact with it automatically, it is a light weight implement like 'expect'
 
